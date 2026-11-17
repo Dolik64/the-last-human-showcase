@@ -6,7 +6,7 @@
 
 ## 1. Introduce the movement in context
 
-![Robot and jump instruction in the tutorial room](../assets/tutorial.png)
+![Robot and jump instruction in the tutorial room](../assets/tutorial.webp)
 
 The tutorial introduces jumping inside the game's layered environment. The project then extends movement and combat with unlockable abilities. The screenshot is from Report 2, dated 2 December 2025; it demonstrates the tutorial presentation at that stage.
 
@@ -22,7 +22,7 @@ The Inspector capture shows a charger's settings. The adjacent capture is an edi
 
 ## 3. Integrate the encounters into rooms
 
-![Wide first-room layout in the Unity Scene view, with the editor grid and camera outlines visible](../assets/first-room-editor.png)
+![Wide first-room layout in the Unity Scene view, with the editor grid and camera outlines visible](../assets/first-room-editor.webp)
 
 The first-room capture shows scene composition in the editor. Subsequent Git history records Jiří's changes to enemy and platform placement, 2D lighting and enemy glow. The broader project connects rooms with scene transitions, checkpoints and saved state; these shared systems should not all be attributed to one contributor.
 
@@ -43,9 +43,9 @@ This is a diagram summarising the inspected implementation. It is not a screensh
 
 ## 5. Keep the game flow connected
 
-![Title screen with New Game, Load Game and Exit](../assets/main-menu.png)
+![Title screen with New Game, Load Game and Exit](../assets/main-menu.webp)
 
-![Pause menu over the game world](../assets/pause-menu.png)
+![Pause menu over the game world](../assets/pause-menu.webp)
 
 The reports document menus connected to game-state management. Later commits by Jiří cover new input action integration, gamepad fixes and pause-menu handling. UI, artwork, core management and save/load are shared team work with separate credits.
 

@@ -4,7 +4,7 @@
 
 [Visual walkthrough](docs/demo.md) · [My contribution & team credits](docs/credits-and-evidence.md) · [Česky](README.cs.md) · [All projects](https://github.com/Dolik64)
 
-![Robot carrying a plant beneath a flying enemy in The Last Human](assets/gameplay.png)
+![Robot carrying a plant beneath a flying enemy in The Last Human](assets/gameplay.webp)
 
 *Gameplay screenshot supplied by Jiří Doležal, added on 17 November 2026.*
 
@@ -32,15 +32,15 @@ Six screenshots taken on **17 November 2026** from the running standalone game a
 
 | Robot & plant | Jump |
 | --- | --- |
-| ![Robot carrying the plant in a lit cavern](assets/gameplay/01-robot-and-plant.png) | ![Robot jumping above the cavern floor](assets/gameplay/02-jump.png) |
+| ![Robot carrying the plant in a lit cavern](assets/gameplay/01-robot-and-plant.webp) | ![Robot jumping above the cavern floor](assets/gameplay/02-jump.webp) |
 
 | Melee attack | Pause menu |
 | --- | --- |
-| ![Turquoise melee attack effect](assets/gameplay/05-melee-attack.png) | ![Pause menu over the live game](assets/gameplay/03-pause-menu.png) |
+| ![Turquoise melee attack effect](assets/gameplay/05-melee-attack.webp) | ![Pause menu over the live game](assets/gameplay/03-pause-menu.webp) |
 
 | Tutorial | Recharge checkpoint |
 | --- | --- |
-| ![Robot on a platform in TutorialScene](assets/gameplay/04-tutorial.png) | ![Robot at the recharge checkpoint in Level_1_Scene](assets/gameplay/06-checkpoint.png) |
+| ![Robot on a platform in TutorialScene](assets/gameplay/04-tutorial.webp) | ![Robot at the recharge checkpoint in Level_1_Scene](assets/gameplay/06-checkpoint.webp) |
 
 [View the six captures at full size](docs/gameplay-gallery.md).
 
@@ -48,7 +48,7 @@ Six screenshots taken on **17 November 2026** from the running standalone game a
 
 | Main menu | Pause menu |
 | --- | --- |
-| ![The Last Human title screen with New Game, Load Game and Exit](assets/main-menu.png) | ![Pause menu over the game world](assets/pause-menu.png) |
+| ![The Last Human title screen with New Game, Load Game and Exit](assets/main-menu.webp) | ![Pause menu over the game world](assets/pause-menu.webp) |
 
 | Configurable enemy attacks | Hitbox debugging |
 | --- | --- |

@@ -39,20 +39,20 @@ The commit identifiers refer to the original university GitLab history, includin
 
 | Public image | Original source | Interpretation |
 | --- | --- | --- |
-| [Robot and plant](../assets/gameplay/01-robot-and-plant.png) | Live capture, 17 November 2026 | Standalone game. |
-| [Jump](../assets/gameplay/02-jump.png) | Live capture, 17 November 2026 | Standalone game. |
-| [Melee attack](../assets/gameplay/05-melee-attack.png) | Live capture, 17 November 2026 | Standalone game. |
-| [Live pause menu](../assets/gameplay/03-pause-menu.png) | Live capture, 17 November 2026 | Standalone game. |
-| [Live tutorial](../assets/gameplay/04-tutorial.png) | Live capture, 17 November 2026 | Unity Play mode; cropped to the Game view. |
-| [Checkpoint](../assets/gameplay/06-checkpoint.png) | Live capture, 17 November 2026 | Unity Play mode; cropped to the Game view. |
-| [Gameplay](../assets/gameplay.png) | Screenshot supplied by Jiří Doležal on 17 November 2026 | Robot carrying a plant beneath a flying enemy; published without image modifications. |
-| [Tutorial](../assets/tutorial.png) | Report 2, 2 December 2025, page 2 | In-game tutorial development capture. |
-| [Main menu](../assets/main-menu.png) | Report 1, 18 November 2025, page 3 | Main menu at that stage. |
-| [Pause menu](../assets/pause-menu.png) | Report 1, 18 November 2025, page 3 | Pause menu over the game world. |
+| [Robot and plant](../assets/gameplay/01-robot-and-plant.webp) | Live capture, 17 November 2026 | Standalone game. |
+| [Jump](../assets/gameplay/02-jump.webp) | Live capture, 17 November 2026 | Standalone game. |
+| [Melee attack](../assets/gameplay/05-melee-attack.webp) | Live capture, 17 November 2026 | Standalone game. |
+| [Live pause menu](../assets/gameplay/03-pause-menu.webp) | Live capture, 17 November 2026 | Standalone game. |
+| [Live tutorial](../assets/gameplay/04-tutorial.webp) | Live capture, 17 November 2026 | Unity Play mode; cropped to the Game view. |
+| [Checkpoint](../assets/gameplay/06-checkpoint.webp) | Live capture, 17 November 2026 | Unity Play mode; cropped to the Game view. |
+| [Gameplay](../assets/gameplay.webp) | Screenshot supplied by Jiří Doležal on 17 November 2026 | Robot carrying a plant beneath a flying enemy; compressed WebP presentation copy at the original dimensions. |
+| [Tutorial](../assets/tutorial.webp) | Report 2, 2 December 2025, page 2 | In-game tutorial development capture. |
+| [Main menu](../assets/main-menu.webp) | Report 1, 18 November 2025, page 3 | Main menu at that stage. |
+| [Pause menu](../assets/pause-menu.webp) | Report 1, 18 November 2025, page 3 | Pause menu over the game world. |
 | [Enemy settings](../assets/enemy-inspector.png) | Report 1, 18 November 2025, page 2 | Unity Inspector screenshot of charger settings. |
 | [Hitboxes](../assets/enemy-hitboxes.png) | Report 2, 2 December 2025, page 2 | Editor/debug view of enemy and player collision/attack geometry. |
-| [First room](../assets/first-room-editor.png) | Report 1, 18 November 2025, page 4 | Unity Scene view, including grid and camera outlines. |
+| [First room](../assets/first-room-editor.webp) | Report 1, 18 November 2025, page 4 | Unity Scene view, including grid and camera outlines. |
 
-The six original images were extracted from the existing PDF reports at their embedded resolution, without generating or retouching gameplay. The additional gameplay image was supplied separately by Jiří Doležal and uploaded unchanged. Later implementation work is described separately from the older images. Full reports, personal contact addresses, game source, third-party packages and binaries are omitted from this presentation.
+The six original images were extracted from the existing PDF reports at their embedded resolution, without generating or retouching gameplay. The additional gameplay image was supplied separately by Jiří Doležal and published as a compressed WebP presentation copy. Later implementation work is described separately from the older images. Full reports, personal contact addresses, game source, third-party packages and binaries are omitted from this presentation.
 
 This repository is a portfolio presentation. It does not grant a licence to reuse the team's artwork or other game materials; rights remain with their respective authors.

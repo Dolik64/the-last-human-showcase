@@ -1,27 +1,83 @@
 [
   {
-    "asset": "assets/gameplay.png",
+    "asset": "assets/gameplay.webp",
     "origin": "Supplied by Jiří Doležal, 17 November 2026",
-    "kind": "Gameplay screenshot; uploaded unchanged",
-    "sha256": "cbf241fecfa09075d4c721315774004a79541f29d78a52d9944ff1d22edd78b4"
+    "kind": "Gameplay screenshot; compressed presentation copy",
+    "sha256": "3ca1468bc794c555d2dca82adef0c2387f0324cd23fd816fe7cda279ba78c036",
+    "original_asset": "assets/gameplay.png",
+    "original_sha256": "cbf241fecfa09075d4c721315774004a79541f29d78a52d9944ff1d22edd78b4",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 45.701,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "original_bytes": 871681,
+      "bytes": 96046
+    },
+    "processing": "WebP presentation copy; original dimensions and alpha preserved."
   },
   {
-    "asset": "assets/tutorial.png",
+    "asset": "assets/tutorial.webp",
     "origin": "Report 2, 2 December 2025, page 2",
     "kind": "In-game tutorial screenshot",
-    "sha256": "1799b081fe04d05a45ec48500f39d5a081f467f8bab5d2100ce3856b1e84e2d7"
+    "sha256": "c866f957d70ddb9562f1c4068124ecab2265f8fd985c2929ebd57ca3647e3d73",
+    "original_asset": "assets/tutorial.png",
+    "original_sha256": "1799b081fe04d05a45ec48500f39d5a081f467f8bab5d2100ce3856b1e84e2d7",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 44.251,
+      "dimensions": [
+        1229,
+        550
+      ],
+      "original_bytes": 246548,
+      "bytes": 43268
+    },
+    "processing": "WebP presentation copy; original dimensions and alpha preserved."
   },
   {
-    "asset": "assets/main-menu.png",
+    "asset": "assets/main-menu.webp",
     "origin": "Report 1, 18 November 2025, page 3",
     "kind": "Main menu screenshot",
-    "sha256": "065e26ca6e47514f7c7ea71f63b1c3dcafe2a595bad301259fa3a8a1bf0b2294"
+    "sha256": "1c48bf8be4bddf0746a93574e803ffb24b08c09dcf9fad51d44f1ffd79d2746f",
+    "original_asset": "assets/main-menu.png",
+    "original_sha256": "065e26ca6e47514f7c7ea71f63b1c3dcafe2a595bad301259fa3a8a1bf0b2294",
+    "optimization": {
+      "lossless": false,
+      "quality": 95,
+      "psnr_db": 43.162,
+      "dimensions": [
+        1667,
+        796
+      ],
+      "original_bytes": 1910363,
+      "bytes": 320040
+    },
+    "processing": "WebP presentation copy; original dimensions and alpha preserved."
   },
   {
-    "asset": "assets/pause-menu.png",
+    "asset": "assets/pause-menu.webp",
     "origin": "Report 1, 18 November 2025, page 3",
     "kind": "Pause menu screenshot",
-    "sha256": "2323eb8a5d9737998ce4b4f39cb2d4f9b5e725aa8336413e01643b581a4afba8"
+    "sha256": "eb738c94195c87afe508b20e8b79a0268b78779cada2b3f2b9a858809dba2375",
+    "original_asset": "assets/pause-menu.png",
+    "original_sha256": "2323eb8a5d9737998ce4b4f39cb2d4f9b5e725aa8336413e01643b581a4afba8",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 43.724,
+      "dimensions": [
+        1445,
+        730
+      ],
+      "original_bytes": 403132,
+      "bytes": 63878
+    },
+    "processing": "WebP presentation copy; original dimensions and alpha preserved."
   },
   {
     "asset": "assets/enemy-inspector.png",
@@ -36,44 +92,100 @@
     "sha256": "2b4273a33264dc8bc09c4ad70d13c592b8c21173034af8f58f31f36d349b5769"
   },
   {
-    "asset": "assets/first-room-editor.png",
+    "asset": "assets/first-room-editor.webp",
     "origin": "Report 1, 18 November 2025, page 4",
     "kind": "First room in Unity Scene view",
-    "sha256": "654b84ac9da8a89860cf62b4f25b889d2b29d417e3769af3e80839fb4fe816b9"
+    "sha256": "f384c2e47744d79d5da327da9a56ec9b6b1c2171bb9b0af6200f61410d39dfd3",
+    "original_asset": "assets/first-room-editor.png",
+    "original_sha256": "654b84ac9da8a89860cf62b4f25b889d2b29d417e3769af3e80839fb4fe816b9",
+    "optimization": {
+      "lossless": true,
+      "quality": null,
+      "psnr_db": null,
+      "dimensions": [
+        868,
+        420
+      ],
+      "original_bytes": 230646,
+      "bytes": 171406
+    },
+    "processing": "WebP presentation copy; original dimensions and alpha preserved."
   },
   {
-    "asset": "assets/gameplay/01-robot-and-plant.png",
+    "asset": "assets/gameplay/01-robot-and-plant.webp",
     "origin": "Live capture on 17 November 2026: running standalone game",
     "kind": "Live game capture: robot carrying the plant in a lit cavern.",
-    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
-    "sha256": "f398d63f6173e05c931b6281eb98988938b302d7cccf4c21b59ed20f5d19289a",
+    "processing": "WebP presentation copy; original dimensions and alpha preserved.",
+    "sha256": "6d348d4c6d983729b7ffef6c77219c3b55f03ee2aadabdb3402065c73e349aef",
     "source_sha256": "e86b2d31cbc1ecdf27c50d3bad473cd5c44dfffcf9bb17617512443ad4677469",
-    "captured_at": "2026-11-17T15:44:15.369Z"
+    "captured_at": "2026-11-17T15:44:15.369Z",
+    "original_asset": "assets/gameplay/01-robot-and-plant.png",
+    "original_sha256": "f398d63f6173e05c931b6281eb98988938b302d7cccf4c21b59ed20f5d19289a",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 47.577,
+      "dimensions": [
+        1280,
+        800
+      ],
+      "original_bytes": 303834,
+      "bytes": 37062
+    },
+    "pre_optimization_processing": "JPEG capture encoded as PNG; decoded pixels unchanged."
   },
   {
-    "asset": "assets/gameplay/02-jump.png",
+    "asset": "assets/gameplay/02-jump.webp",
     "origin": "Live capture on 17 November 2026: running standalone game",
     "kind": "Live game capture: robot jumping in the cavern.",
-    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
-    "sha256": "10406e2e163f00d7399c1808d09db548a748cbef5edcc11fa3afdacb1d100606",
+    "processing": "WebP presentation copy; original dimensions and alpha preserved.",
+    "sha256": "54f8cb12a44c59badf098443dd7d0d2d42fc9408c72a20d14ede44e7347c5109",
     "source_sha256": "00ffae4b7372093df83a7d2c0d2234cee28b58d90c59d31e9a977eda319c42c7",
-    "captured_at": "2026-11-17T15:44:56.057Z"
+    "captured_at": "2026-11-17T15:44:56.057Z",
+    "original_asset": "assets/gameplay/02-jump.png",
+    "original_sha256": "10406e2e163f00d7399c1808d09db548a748cbef5edcc11fa3afdacb1d100606",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 47.686,
+      "dimensions": [
+        1280,
+        800
+      ],
+      "original_bytes": 307091,
+      "bytes": 38824
+    },
+    "pre_optimization_processing": "JPEG capture encoded as PNG; decoded pixels unchanged."
   },
   {
-    "asset": "assets/gameplay/03-pause-menu.png",
+    "asset": "assets/gameplay/03-pause-menu.webp",
     "origin": "Live capture on 17 November 2026: running standalone game",
     "kind": "Live game capture: pause menu over the cavern scene.",
-    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
-    "sha256": "8bb902b3092a2f9d9497549c8845f1bb8bf58fe1b153ebbb427325456aec8ba1",
+    "processing": "WebP presentation copy; original dimensions and alpha preserved.",
+    "sha256": "cef14bd9d914b050f1814dbaaa7de05c09b651ba2de90718fe09802fa00af83d",
     "source_sha256": "ca7a33336d51e5d9c0ecba1ebe41ac4bb3ae46b9e4308413ae59c933b884e456",
-    "captured_at": "2026-11-17T15:45:42.709Z"
+    "captured_at": "2026-11-17T15:45:42.709Z",
+    "original_asset": "assets/gameplay/03-pause-menu.png",
+    "original_sha256": "8bb902b3092a2f9d9497549c8845f1bb8bf58fe1b153ebbb427325456aec8ba1",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 45.276,
+      "dimensions": [
+        1280,
+        800
+      ],
+      "original_bytes": 475907,
+      "bytes": 76650
+    },
+    "pre_optimization_processing": "JPEG capture encoded as PNG; decoded pixels unchanged."
   },
   {
-    "asset": "assets/gameplay/04-tutorial.png",
+    "asset": "assets/gameplay/04-tutorial.webp",
     "origin": "Live capture on 17 November 2026: Unity Play mode",
     "kind": "TutorialScene running in Unity Play mode; crop removes editor chrome only.",
-    "processing": "Cropped to the Game view and encoded as PNG; no scene retouching.",
-    "sha256": "f4379e7fcf0762b671be0b22cb5ca06799104644a2f80144556be128b24c7900",
+    "processing": "WebP presentation copy; original dimensions and alpha preserved.",
+    "sha256": "fd0eed236fa166812d69ecb8c73b99ea48fa39cb8708f9053bafae8bd463e330",
     "source_sha256": "962f92277c1149d5ad643f7b47b798cd697569ed1fcd39598e08dd0d2cdaae7f",
     "captured_at": "2026-11-17T15:48:22.678Z",
     "crop": [
@@ -81,23 +193,51 @@
       126,
       1224,
       776
-    ]
+    ],
+    "original_asset": "assets/gameplay/04-tutorial.png",
+    "original_sha256": "f4379e7fcf0762b671be0b22cb5ca06799104644a2f80144556be128b24c7900",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 46.588,
+      "dimensions": [
+        1168,
+        650
+      ],
+      "original_bytes": 242029,
+      "bytes": 33222
+    },
+    "pre_optimization_processing": "Cropped to the Game view and encoded as PNG; no scene retouching."
   },
   {
-    "asset": "assets/gameplay/05-melee-attack.png",
+    "asset": "assets/gameplay/05-melee-attack.webp",
     "origin": "Live capture on 17 November 2026: running standalone game",
     "kind": "Live game capture: robot melee attack with a turquoise slash effect.",
-    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
-    "sha256": "d65f53fc22ca53f7cf84320df13703be6765705f57a5e48f6da83d2d9e1fa159",
+    "processing": "WebP presentation copy; original dimensions and alpha preserved.",
+    "sha256": "493ae5424b3cb8f2fecde2f953013e4ed56fbdef21d99b3f07e6647af84391ea",
     "source_sha256": "5e01a8bd818ffab00a33df51c7958c117465477942f9aa1e98f31c715d23e345",
-    "captured_at": "2026-11-17T15:49:17.141Z"
+    "captured_at": "2026-11-17T15:49:17.141Z",
+    "original_asset": "assets/gameplay/05-melee-attack.png",
+    "original_sha256": "d65f53fc22ca53f7cf84320df13703be6765705f57a5e48f6da83d2d9e1fa159",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 47.194,
+      "dimensions": [
+        1280,
+        800
+      ],
+      "original_bytes": 320990,
+      "bytes": 40574
+    },
+    "pre_optimization_processing": "JPEG capture encoded as PNG; decoded pixels unchanged."
   },
   {
-    "asset": "assets/gameplay/06-checkpoint.png",
+    "asset": "assets/gameplay/06-checkpoint.webp",
     "origin": "Live capture on 17 November 2026: Unity Play mode",
     "kind": "Level_1_Scene running in Unity Play mode: recharge checkpoint.",
-    "processing": "Cropped to the Game view and encoded as PNG; no scene retouching.",
-    "sha256": "1e7cb287b6682a6fb558216a918f4a66e0c5688dc731860ae6c1c12b6314e052",
+    "processing": "WebP presentation copy; original dimensions and alpha preserved.",
+    "sha256": "5f6b25aba9e2bb6149e25d5cce2abb87a9e4f17a6b9b249d5a73e98dccead40d",
     "source_sha256": "aae1ab430be38bdc51b771dd1bc9abb8e3a653b9e64957e21357df002c084805",
     "captured_at": "2026-11-17T15:50:10.783Z",
     "crop": [
@@ -105,6 +245,20 @@
       124,
       1224,
       776
-    ]
+    ],
+    "original_asset": "assets/gameplay/06-checkpoint.png",
+    "original_sha256": "1e7cb287b6682a6fb558216a918f4a66e0c5688dc731860ae6c1c12b6314e052",
+    "optimization": {
+      "lossless": false,
+      "quality": 92,
+      "psnr_db": 46.632,
+      "dimensions": [
+        1168,
+        652
+      ],
+      "original_bytes": 245211,
+      "bytes": 37582
+    },
+    "pre_optimization_processing": "Cropped to the Game view and encoded as PNG; no scene retouching."
   }
 ]

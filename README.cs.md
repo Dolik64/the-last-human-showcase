@@ -4,7 +4,7 @@
 
 [Obrazový průchod](docs/demo.md) · [Můj podíl a tým](docs/credits-and-evidence.md) · [English](README.md) · [Všechny projekty](https://github.com/Dolik64)
 
-![Robot s rostlinou pod létajícím nepřítelem ve hře The Last Human](assets/gameplay.png)
+![Robot s rostlinou pod létajícím nepřítelem ve hře The Last Human](assets/gameplay.webp)
 
 *Screenshot ze hry dodaný Jiřím Doležalem, přidaný 17. listopadu 2026.*
 
@@ -32,15 +32,15 @@ Jde o můj příspěvek do týmové hry. Grafiku, návrh úrovní a další syst
 
 | Robot & plant | Jump |
 | --- | --- |
-| ![Robot carrying the plant in a lit cavern](assets/gameplay/01-robot-and-plant.png) | ![Robot jumping above the cavern floor](assets/gameplay/02-jump.png) |
+| ![Robot carrying the plant in a lit cavern](assets/gameplay/01-robot-and-plant.webp) | ![Robot jumping above the cavern floor](assets/gameplay/02-jump.webp) |
 
 | Melee attack | Pause menu |
 | --- | --- |
-| ![Turquoise melee attack effect](assets/gameplay/05-melee-attack.png) | ![Pause menu over the live game](assets/gameplay/03-pause-menu.png) |
+| ![Turquoise melee attack effect](assets/gameplay/05-melee-attack.webp) | ![Pause menu over the live game](assets/gameplay/03-pause-menu.webp) |
 
 | Tutorial | Recharge checkpoint |
 | --- | --- |
-| ![Robot on a platform in TutorialScene](assets/gameplay/04-tutorial.png) | ![Robot at the recharge checkpoint in Level_1_Scene](assets/gameplay/06-checkpoint.png) |
+| ![Robot on a platform in TutorialScene](assets/gameplay/04-tutorial.webp) | ![Robot at the recharge checkpoint in Level_1_Scene](assets/gameplay/06-checkpoint.webp) |
 
 [Všech šest snímků v plné velikosti](docs/gameplay-gallery.md).
 
@@ -48,7 +48,7 @@ Jde o můj příspěvek do týmové hry. Grafiku, návrh úrovní a další syst
 
 | Hlavní menu | Pauza ve hře |
 | --- | --- |
-| ![Hlavní menu The Last Human](assets/main-menu.png) | ![Menu pauzy nad herním prostředím](assets/pause-menu.png) |
+| ![Hlavní menu The Last Human](assets/main-menu.webp) | ![Menu pauzy nad herním prostředím](assets/pause-menu.webp) |
 
 | Nastavení útoku nepřítele | Ladění hitboxů |
 | --- | --- |
