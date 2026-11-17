@@ -1,0 +1,38 @@
+[
+  {
+    "asset": "assets/tutorial.png",
+    "origin": "Report 2, 2 December 2025, page 2",
+    "kind": "In-game tutorial screenshot",
+    "sha256": "1799b081fe04d05a45ec48500f39d5a081f467f8bab5d2100ce3856b1e84e2d7"
+  },
+  {
+    "asset": "assets/main-menu.png",
+    "origin": "Report 1, 18 November 2025, page 3",
+    "kind": "Main menu screenshot",
+    "sha256": "065e26ca6e47514f7c7ea71f63b1c3dcafe2a595bad301259fa3a8a1bf0b2294"
+  },
+  {
+    "asset": "assets/pause-menu.png",
+    "origin": "Report 1, 18 November 2025, page 3",
+    "kind": "Pause menu screenshot",
+    "sha256": "2323eb8a5d9737998ce4b4f39cb2d4f9b5e725aa8336413e01643b581a4afba8"
+  },
+  {
+    "asset": "assets/enemy-inspector.png",
+    "origin": "Report 1, 18 November 2025, page 2",
+    "kind": "Unity Inspector capture of charger settings",
+    "sha256": "17a4938472ab71ad6634fcc18b82fa51b96ca83b7dcd754aff6260daab0da792"
+  },
+  {
+    "asset": "assets/enemy-hitboxes.png",
+    "origin": "Report 2, 2 December 2025, page 2",
+    "kind": "Enemy collision and attack debugging capture",
+    "sha256": "2b4273a33264dc8bc09c4ad70d13c592b8c21173034af8f58f31f36d349b5769"
+  },
+  {
+    "asset": "assets/first-room-editor.png",
+    "origin": "Report 1, 18 November 2025, page 4",
+    "kind": "First room in Unity Scene view",
+    "sha256": "654b84ac9da8a89860cf62b4f25b889d2b29d417e3769af3e80839fb4fe816b9"
+  }
+]
