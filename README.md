@@ -4,9 +4,9 @@
 
 [Visual walkthrough](docs/demo.md) · [My contribution & team credits](docs/credits-and-evidence.md) · [Česky](README.cs.md) · [All projects](https://github.com/Dolik64)
 
-![The robot in a layered, hand-drawn tutorial environment, with an on-screen jump prompt](assets/tutorial.png)
+![Robot carrying a plant beneath a flying enemy in The Last Human](assets/gameplay.png)
 
-*An actual development screenshot preserved in the team's December 2025 progress report.*
+*Gameplay screenshot supplied by Jiří Doležal, added on 17 November 2026.*
 
 ## The game
 
@@ -36,7 +36,7 @@ These are contributions to a shared project. [Team credits and the evidence behi
 | --- | --- |
 | ![Charger attack settings exposed in Unity Inspector](assets/enemy-inspector.png) | ![Long-arms enemy and player with visible collision and attack boxes](assets/enemy-hitboxes.png) |
 
-The images come from the team's **November and December 2025 progress reports**. They show a development build and editor tools; they are not captures of a newly tested final release. The walkthrough includes a wider scene view and explains how the systems fit together.
+The gallery images above come from the team's **November and December 2025 progress reports**. They show a development build and editor tools; they are not captures of a newly tested final release. The walkthrough includes a wider scene view and explains how the systems fit together.
 
 ## Technical focus
 
@@ -49,4 +49,4 @@ The reviewed editor version is **Unity 6000.2.6f2**. The package manifest includ
 - [Visual walkthrough](docs/demo.md): tutorial, enemy tuning, scene integration and boss behaviour.
 - [Credits & evidence](docs/credits-and-evidence.md): authorship, screenshot provenance and the scope of this presentation.
 
-This is a presentation repository containing documentation and six existing development captures. It does not distribute the Unity source project or a playable build. The team project remains in its original university GitLab repository.
+This is a presentation repository containing documentation, a supplied gameplay screenshot and six earlier development captures. It does not distribute the Unity source project or a playable build. The team project remains in its original university GitLab repository.

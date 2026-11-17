@@ -35,6 +35,7 @@ The commit identifiers refer to the original university GitLab history, includin
 
 | Public image | Original source | Interpretation |
 | --- | --- | --- |
+| [Gameplay](../assets/gameplay.png) | Screenshot supplied by Jiří Doležal on 17 November 2026 | Robot carrying a plant beneath a flying enemy; published without image modifications. |
 | [Tutorial](../assets/tutorial.png) | Report 2, 2 December 2025, page 2 | In-game tutorial development capture. |
 | [Main menu](../assets/main-menu.png) | Report 1, 18 November 2025, page 3 | Main menu at that stage. |
 | [Pause menu](../assets/pause-menu.png) | Report 1, 18 November 2025, page 3 | Pause menu over the game world. |
@@ -42,6 +43,6 @@ The commit identifiers refer to the original university GitLab history, includin
 | [Hitboxes](../assets/enemy-hitboxes.png) | Report 2, 2 December 2025, page 2 | Editor/debug view of enemy and player collision/attack geometry. |
 | [First room](../assets/first-room-editor.png) | Report 1, 18 November 2025, page 4 | Unity Scene view, including grid and camera outlines. |
 
-Images were extracted from the existing PDF reports at their embedded resolution, without generating or retouching gameplay. Later implementation work is described separately from the older images. Full reports, personal contact addresses, game source, third-party packages and binaries are omitted from this presentation.
+The six original images were extracted from the existing PDF reports at their embedded resolution, without generating or retouching gameplay. The additional gameplay image was supplied separately by Jiří Doležal and uploaded unchanged. Later implementation work is described separately from the older images. Full reports, personal contact addresses, game source, third-party packages and binaries are omitted from this presentation.
 
 This repository is a portfolio presentation. It does not grant a licence to reuse the team's artwork or other game materials; rights remain with their respective authors.

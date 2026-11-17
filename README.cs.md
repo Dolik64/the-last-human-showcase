@@ -4,9 +4,9 @@
 
 [Obrazový průchod](docs/demo.md) · [Můj podíl a tým](docs/credits-and-evidence.md) · [English](README.md) · [Všechny projekty](https://github.com/Dolik64)
 
-![Robot v tutoriálu s vrstveným kresleným prostředím a pokynem ke skoku](assets/tutorial.png)
+![Robot s rostlinou pod létajícím nepřítelem ve hře The Last Human](assets/gameplay.png)
 
-*Skutečný vývojový screenshot z týmového reportu z prosince 2025.*
+*Screenshot ze hry dodaný Jiřím Doležalem, přidaný 17. listopadu 2026.*
 
 ## O hře
 
@@ -36,7 +36,7 @@ Jde o můj příspěvek do týmové hry. Grafiku, návrh úrovní a další syst
 | --- | --- |
 | ![Parametry nepřítele v Unity Inspectoru](assets/enemy-inspector.png) | ![Nepřítel a hráč s viditelnými kolizními a útočnými oblastmi](assets/enemy-hitboxes.png) |
 
-Záběry pocházejí z týmových reportů z **listopadu a prosince 2025**. Zachycují tehdejší rozpracovanou verzi a editorové nástroje. Nejde o nové ověření finálního vydání.
+Záběry v galerii výše pocházejí z týmových reportů z **listopadu a prosince 2025**. Zachycují tehdejší rozpracovanou verzi a editorové nástroje. Nejde o nové ověření finálního vydání.
 
 ## Technologie
 
@@ -44,4 +44,4 @@ Záběry pocházejí z týmových reportů z **listopadu a prosince 2025**. Zach
 
 Prohlédnutý projekt používá editor **6000.2.6f2**. Další obrázek úrovně a vysvětlení soubojových systémů obsahuje [obrazový průchod](docs/demo.md).
 
-Repozitář obsahuje dokumentaci a šest existujících vývojových záběrů. Zdrojový Unity projekt ani spustitelný build zde nejsou; týmový projekt zůstává v původním univerzitním GitLabu.
+Repozitář obsahuje dokumentaci, dodaný screenshot ze hry a šest starších vývojových záběrů. Zdrojový Unity projekt ani spustitelný build zde nejsou; týmový projekt zůstává v původním univerzitním GitLabu.

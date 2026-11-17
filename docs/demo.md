@@ -49,4 +49,4 @@ The reports document menus connected to game-state management. Later commits by 
 
 ## Presentation scope
 
-All six raster images were extracted from existing team reports. No AI-generated scene, reconstructed gameplay or placeholder screenshot is used. The game was not freshly launched or rebuilt as part of preparing this presentation. For screenshot dates, attribution and evidence, see [credits & evidence](credits-and-evidence.md).
+The six images in this walkthrough were extracted from existing team reports. The project README additionally features a gameplay screenshot supplied by Jiří Doležal on 17 November 2026. No AI-generated scene, reconstructed gameplay or placeholder screenshot is used. These images do not represent a verified full playthrough. For screenshot dates, attribution and evidence, see [credits & evidence](credits-and-evidence.md).

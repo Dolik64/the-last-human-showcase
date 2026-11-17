@@ -1,5 +1,11 @@
 [
   {
+    "asset": "assets/gameplay.png",
+    "origin": "Supplied by Jiří Doležal, 17 November 2026",
+    "kind": "Gameplay screenshot; uploaded unchanged",
+    "sha256": "cbf241fecfa09075d4c721315774004a79541f29d78a52d9944ff1d22edd78b4"
+  },
+  {
     "asset": "assets/tutorial.png",
     "origin": "Report 2, 2 December 2025, page 2",
     "kind": "In-game tutorial screenshot",
