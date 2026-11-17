@@ -26,6 +26,24 @@ Jsem **Jiří Doležal** a zaměřoval jsem se především na chování nepřá
 
 Jde o můj příspěvek do týmové hry. Grafiku, návrh úrovní a další systémy vytvářeli také spoluautoři; rozdělení práce uvádí [kredity a přehled podkladů](docs/credits-and-evidence.md).
 
+## Nové screenshoty přímo ze hry
+
+Šest snímků pořízených **17. listopadu 2026** ze spuštěné hry a režimu Play v Unity. U tutoriálu a checkpointu je oříznuté rozhraní editoru; ostatní čtyři zachovávají celý zachycený snímek. Herní scény nejsou generované ani retušované.
+
+| Robot & plant | Jump |
+| --- | --- |
+| ![Robot carrying the plant in a lit cavern](assets/gameplay/01-robot-and-plant.png) | ![Robot jumping above the cavern floor](assets/gameplay/02-jump.png) |
+
+| Melee attack | Pause menu |
+| --- | --- |
+| ![Turquoise melee attack effect](assets/gameplay/05-melee-attack.png) | ![Pause menu over the live game](assets/gameplay/03-pause-menu.png) |
+
+| Tutorial | Recharge checkpoint |
+| --- | --- |
+| ![Robot on a platform in TutorialScene](assets/gameplay/04-tutorial.png) | ![Robot at the recharge checkpoint in Level_1_Scene](assets/gameplay/06-checkpoint.png) |
+
+[Všech šest snímků v plné velikosti](docs/gameplay-gallery.md).
+
 ## Galerie
 
 | Hlavní menu | Pauza ve hře |
@@ -44,4 +62,4 @@ Záběry v galerii výše pocházejí z týmových reportů z **listopadu a pros
 
 Prohlédnutý projekt používá editor **6000.2.6f2**. Další obrázek úrovně a vysvětlení soubojových systémů obsahuje [obrazový průchod](docs/demo.md).
 
-Repozitář obsahuje dokumentaci, dodaný screenshot ze hry a šest starších vývojových záběrů. Zdrojový Unity projekt ani spustitelný build zde nejsou; týmový projekt zůstává v původním univerzitním GitLabu.
+Repozitář obsahuje dokumentaci, dodaný úvodní screenshot, šest nových snímků z běžící hry a šest starších vývojových záběrů. Zdrojový Unity projekt ani spustitelný build zde nejsou; týmový projekt zůstává v původním univerzitním GitLabu.

@@ -2,6 +2,8 @@
 
 [Project](../README.md) · [Česky](../README.cs.md) · [Credits & evidence](credits-and-evidence.md)
 
+[New runtime screenshots](gameplay-gallery.md) show six additional captures taken from the running game and Unity Play mode on 17 November 2026. The implementation walkthrough below retains the earlier report images.
+
 ## 1. Introduce the movement in context
 
 ![Robot and jump instruction in the tutorial room](../assets/tutorial.png)

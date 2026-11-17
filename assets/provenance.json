@@ -40,5 +40,71 @@
     "origin": "Report 1, 18 November 2025, page 4",
     "kind": "First room in Unity Scene view",
     "sha256": "654b84ac9da8a89860cf62b4f25b889d2b29d417e3769af3e80839fb4fe816b9"
+  },
+  {
+    "asset": "assets/gameplay/01-robot-and-plant.png",
+    "origin": "Live capture on 17 November 2026: running standalone game",
+    "kind": "Live game capture: robot carrying the plant in a lit cavern.",
+    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
+    "sha256": "f398d63f6173e05c931b6281eb98988938b302d7cccf4c21b59ed20f5d19289a",
+    "source_sha256": "e86b2d31cbc1ecdf27c50d3bad473cd5c44dfffcf9bb17617512443ad4677469",
+    "captured_at": "2026-11-17T15:44:15.369Z"
+  },
+  {
+    "asset": "assets/gameplay/02-jump.png",
+    "origin": "Live capture on 17 November 2026: running standalone game",
+    "kind": "Live game capture: robot jumping in the cavern.",
+    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
+    "sha256": "10406e2e163f00d7399c1808d09db548a748cbef5edcc11fa3afdacb1d100606",
+    "source_sha256": "00ffae4b7372093df83a7d2c0d2234cee28b58d90c59d31e9a977eda319c42c7",
+    "captured_at": "2026-11-17T15:44:56.057Z"
+  },
+  {
+    "asset": "assets/gameplay/03-pause-menu.png",
+    "origin": "Live capture on 17 November 2026: running standalone game",
+    "kind": "Live game capture: pause menu over the cavern scene.",
+    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
+    "sha256": "8bb902b3092a2f9d9497549c8845f1bb8bf58fe1b153ebbb427325456aec8ba1",
+    "source_sha256": "ca7a33336d51e5d9c0ecba1ebe41ac4bb3ae46b9e4308413ae59c933b884e456",
+    "captured_at": "2026-11-17T15:45:42.709Z"
+  },
+  {
+    "asset": "assets/gameplay/04-tutorial.png",
+    "origin": "Live capture on 17 November 2026: Unity Play mode",
+    "kind": "TutorialScene running in Unity Play mode; crop removes editor chrome only.",
+    "processing": "Cropped to the Game view and encoded as PNG; no scene retouching.",
+    "sha256": "f4379e7fcf0762b671be0b22cb5ca06799104644a2f80144556be128b24c7900",
+    "source_sha256": "962f92277c1149d5ad643f7b47b798cd697569ed1fcd39598e08dd0d2cdaae7f",
+    "captured_at": "2026-11-17T15:48:22.678Z",
+    "crop": [
+      56,
+      126,
+      1224,
+      776
+    ]
+  },
+  {
+    "asset": "assets/gameplay/05-melee-attack.png",
+    "origin": "Live capture on 17 November 2026: running standalone game",
+    "kind": "Live game capture: robot melee attack with a turquoise slash effect.",
+    "processing": "JPEG capture encoded as PNG; decoded pixels unchanged.",
+    "sha256": "d65f53fc22ca53f7cf84320df13703be6765705f57a5e48f6da83d2d9e1fa159",
+    "source_sha256": "5e01a8bd818ffab00a33df51c7958c117465477942f9aa1e98f31c715d23e345",
+    "captured_at": "2026-11-17T15:49:17.141Z"
+  },
+  {
+    "asset": "assets/gameplay/06-checkpoint.png",
+    "origin": "Live capture on 17 November 2026: Unity Play mode",
+    "kind": "Level_1_Scene running in Unity Play mode: recharge checkpoint.",
+    "processing": "Cropped to the Game view and encoded as PNG; no scene retouching.",
+    "sha256": "1e7cb287b6682a6fb558216a918f4a66e0c5688dc731860ae6c1c12b6314e052",
+    "source_sha256": "aae1ab430be38bdc51b771dd1bc9abb8e3a653b9e64957e21357df002c084805",
+    "captured_at": "2026-11-17T15:50:10.783Z",
+    "crop": [
+      56,
+      124,
+      1224,
+      776
+    ]
   }
 ]

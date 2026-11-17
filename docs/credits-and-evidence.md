@@ -31,10 +31,20 @@ This showcase was prepared on **17 November 2026** from the existing project doc
 
 The commit identifiers refer to the original university GitLab history, including its branches. They are recorded for traceability; the history and source files are not republished here. Commit counts are not used as a measure of individual contribution.
 
+## New runtime captures
+
+[Live gameplay gallery](gameplay-gallery.md) adds six screenshots taken on **17 November 2026**: robot and plant, jump, melee attack, pause menu, tutorial and recharge checkpoint. Four frames came from the running standalone game; the tutorial and checkpoint came from Unity Play mode and were cropped to the Game view. These are selected play-test frames, not a complete playthrough. The existing six report images and the separately supplied lead image are retained.
+
 ## Screenshot provenance
 
 | Public image | Original source | Interpretation |
 | --- | --- | --- |
+| [Robot and plant](../assets/gameplay/01-robot-and-plant.png) | Live capture, 17 November 2026 | Standalone game. |
+| [Jump](../assets/gameplay/02-jump.png) | Live capture, 17 November 2026 | Standalone game. |
+| [Melee attack](../assets/gameplay/05-melee-attack.png) | Live capture, 17 November 2026 | Standalone game. |
+| [Live pause menu](../assets/gameplay/03-pause-menu.png) | Live capture, 17 November 2026 | Standalone game. |
+| [Live tutorial](../assets/gameplay/04-tutorial.png) | Live capture, 17 November 2026 | Unity Play mode; cropped to the Game view. |
+| [Checkpoint](../assets/gameplay/06-checkpoint.png) | Live capture, 17 November 2026 | Unity Play mode; cropped to the Game view. |
 | [Gameplay](../assets/gameplay.png) | Screenshot supplied by Jiří Doležal on 17 November 2026 | Robot carrying a plant beneath a flying enemy; published without image modifications. |
 | [Tutorial](../assets/tutorial.png) | Report 2, 2 December 2025, page 2 | In-game tutorial development capture. |
 | [Main menu](../assets/main-menu.png) | Report 1, 18 November 2025, page 3 | Main menu at that stage. |

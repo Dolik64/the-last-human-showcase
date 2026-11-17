@@ -26,6 +26,24 @@ I am **Jiří Doležal**. My main focus was enemy behaviour and combat implement
 
 These are contributions to a shared project. [Team credits and the evidence behind this summary](docs/credits-and-evidence.md) distinguish my work from the other team members' work.
 
+## Live gameplay captures
+
+Six screenshots taken on **17 November 2026** from the running standalone game and Unity Play mode. The tutorial and checkpoint images are cropped to the Game view; the other four retain the captured frame. No scene was generated or retouched.
+
+| Robot & plant | Jump |
+| --- | --- |
+| ![Robot carrying the plant in a lit cavern](assets/gameplay/01-robot-and-plant.png) | ![Robot jumping above the cavern floor](assets/gameplay/02-jump.png) |
+
+| Melee attack | Pause menu |
+| --- | --- |
+| ![Turquoise melee attack effect](assets/gameplay/05-melee-attack.png) | ![Pause menu over the live game](assets/gameplay/03-pause-menu.png) |
+
+| Tutorial | Recharge checkpoint |
+| --- | --- |
+| ![Robot on a platform in TutorialScene](assets/gameplay/04-tutorial.png) | ![Robot at the recharge checkpoint in Level_1_Scene](assets/gameplay/06-checkpoint.png) |
+
+[View the six captures at full size](docs/gameplay-gallery.md).
+
 ## Interface & implementation gallery
 
 | Main menu | Pause menu |
@@ -49,4 +67,4 @@ The reviewed editor version is **Unity 6000.2.6f2**. The package manifest includ
 - [Visual walkthrough](docs/demo.md): tutorial, enemy tuning, scene integration and boss behaviour.
 - [Credits & evidence](docs/credits-and-evidence.md): authorship, screenshot provenance and the scope of this presentation.
 
-This is a presentation repository containing documentation, a supplied gameplay screenshot and six earlier development captures. It does not distribute the Unity source project or a playable build. The team project remains in its original university GitLab repository.
+This is a presentation repository containing documentation, a supplied lead screenshot, six new runtime captures and six earlier development captures. It does not distribute the Unity source project or a playable build. The team project remains in its original university GitLab repository.
